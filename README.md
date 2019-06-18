@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rails_basic_crud
+Basic REST API from scratch using Ruby on Rails 5.Performing CRUD operations on articles stored in a MySQL database. Installed the mysql2 gem along with the faker gem to randomly generate content.
+>>>>>>> 2f630d5a3d95080cb1a0432ba82030d7103442ec
